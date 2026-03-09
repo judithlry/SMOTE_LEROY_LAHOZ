@@ -34,4 +34,3 @@ We used an LLM (Claude, Anthropic) as an aid for code structuring and discussion
 ## Reference
 
 Original paper code: [github.com/artefactory/smote_strategies_study](https://github.com/artefactory/smote_strategies_study)
-# SMOTE_LEROY_LAHOZ
